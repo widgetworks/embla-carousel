@@ -9,7 +9,7 @@
     "test": "echo \"Info: no tests specified\" && exit 0"
   },
   "dependencies": {
-    "embla-carousel": "8.5.2"
+    "embla-carousel": "0.0.5"
   },
   "devDependencies": {
     "typescript": "^4.6.4",
