@@ -9,8 +9,8 @@
     "test": "echo \"Info: no tests specified\" && exit 0"
   },
   "dependencies": {
-    "embla-carousel-autoplay": "8.5.2",
-    "embla-carousel-solid": "8.5.2",
+    "embla-carousel-autoplay": "6.0.0",
+    "embla-carousel-solid": "8.0.0",
     "solid-js": "^1.8.0"
   },
   "devDependencies": {
