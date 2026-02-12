@@ -49,7 +49,7 @@
     "embla-carousel-fade": "8.5.2",
     "embla-carousel-react": "8.5.2",
     "focus-trap-react": "^8.10.0",
-    "gatsby": "^5.13.3",
+    "gatsby": "^5.16.0",
     "gatsby-plugin-layout": "^4.13.1",
     "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-mdx": "^5.13.1",
